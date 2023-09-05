@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/eduardoocoelho/eduardoocoelho/blob/main/images/banner_github.png" />
+<div align="center">
+	<img src="https://github.com/eduardoocoelho/eduardoocoelho/blob/main/images/banner_github.png" />
+</div>
 
 <h2 align="center">Skills :computer:</h2>
 <div align="center" style="display: inline_block"><br>
