@@ -30,6 +30,6 @@
 <h2 align="center">My GitHub stats</h2>
 <div align="center">
   <a href="https://github.com/eduardoocoelho">
-  <img height="180em" src="https://github-readme-stats-tan-alpha-77.vercel.app/api?username=eduardoocoelho&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-tan-alpha-77.vercel.app/api/top-langs/?username=eduardoocoelho&theme=radical&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-steel-seven-97.vercel.app/api?username=eduardoocoelho&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-steel-seven-97.vercel.app/api/top-langs/?username=eduardoocoelho&theme=radical&layout=compact"/>
 </div>
